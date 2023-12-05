@@ -1,4 +1,4 @@
-!pip install google-cloud-aiplatform 
+pip install google-cloud-aiplatform 
 
 from google.colab import auth
 auth.authenticate_user()
